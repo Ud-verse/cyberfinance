@@ -28,3 +28,8 @@ Install with python
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co.com/Hxxrhjm/Cuplikan-layar-2024-06-21-211454.png)
+
+
+## Contributor
+
+Telegram @fahmiiuii
