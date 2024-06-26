@@ -12,9 +12,9 @@ Install with python
 2. Install Module (pip install requests colorama)
 3. Buka Bot CFI di PC (Telegram Desktop)
 4. Jika sudah terbuka > Klik kanan Inspect
-5. Di Network (gamedata atau bisa yg lain)
-6. Cek Di Header > Authorization:Bearer eSMj69xxxxx
-7. Ambil eSMj69xxxxx tanpa bearer. Save di tokens.txt
+5. Pergi ke application > session storage
+6. ___Telegram_initparams
+7. Ambil tgwebappdata. Save di initdata.txt
 8. python cfi.py
 
 
@@ -23,6 +23,8 @@ Install with python
 - Auto Upgrade Egg
 - Auto Claim 
 - Auto Clear Task
+- Auto Refresh Token
+- Add Limit Upgrade
 - Multi Account
 
 ## Screenshots
