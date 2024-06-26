@@ -1,0 +1,1 @@
+"query_id=AAEtlrETAwAAAC2WsRM7epm5&user=%7B%22id%22%3A6772856365%2C%22first_name%22%3A%22Airdropsspin%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22airdropsspin%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719445247&hash=793bc2adf9e58d72a2ab1d8bd48d55ec290e4fa2933c6cfe58dd88c4e0ca008f"
